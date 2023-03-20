@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Yuerden
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m John Cohen
+- 👀 I’m interested backend development, Dapps, and website development.
 - 📫 How to reach me ... john.cohen.work@gmail.com
 
 <!---

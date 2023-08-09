@@ -4,7 +4,7 @@
 
 🔭 I've contributed to a decentralized biomedical file sharing app, where I collaborated on both backend blockchain and frontend development using Node.js and React. This endeavor ties into an imminent research paper advocating for blockchain-driven medical data-set sharing, providing hands-on exposure to blockchain technology, distributed systems, and modern web development.
 
-🛠️ Beyond my academic journey, I've actively contributed to a variety of projects. From managing a team to create an iOS tower defense game to developing a Python-based query expansion plugin, my experiences have shaped my proficiency in Swift programming, AGILE methodologies, and more. I am most proud of my ability to identify and solve problems I encounter in my everyday life. Dutch is one of these projects. Click [here]{https://github.com/Yuerden/Dutch} to view its repository.
+🛠️ Beyond my academic journey, I've actively contributed to a variety of projects. From managing a team to create an iOS tower defense game to developing a Python-based query expansion plugin, my experiences have shaped my proficiency in Swift programming, AGILE methodologies, and more. I am most proud of my ability to identify and solve problems I encounter in my everyday life. Dutch is one of these projects. Click [here](https://github.com/Yuerden/Dutch) to view its repository.
 
 🏆 As a leader, I've played diverse roles in Chi Phi fraternity, showcasing my ability to steer discussions, oversee operations, and lead productive meetings. Sports have also been a major part of my life, with 4 years as a varsity starter and 2 years as captain in Black and Blue Wrestling.
 

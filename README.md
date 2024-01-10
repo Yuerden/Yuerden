@@ -1,6 +1,6 @@
 👋 Hey there! I'm John Cohen, a Computer Science student at Rensselaer Polytechnic Institute who's passionate about crafting impactful applications.
 
-🎓 Currently pursuing a B.S. in Computer Science at Rensselaer Polytechnic Institute with minors in AI and Economics, I maintain a GPA of 3.65. You'll find me deeply engaged in all things tech.
+🎓 Currently pursuing a B.S. in Computer Science at Rensselaer Polytechnic Institute with minors in AI and Economics, I maintain a GPA of 3.67. You'll find me deeply engaged in all things tech.
 I plan to pursue a M.S. in Computer Science at RPI with an emphasis in AI, ML, and DL Fall 2024-Spring 2025.
 
 🔭 I've contributed to a decentralized biomedical file sharing app, where I collaborated on both backend blockchain and frontend development using Node.js and React. This endeavor ties into an imminent research paper advocating for blockchain-driven medical data-set sharing, providing hands-on exposure to blockchain technology, distributed systems, and modern web development.
